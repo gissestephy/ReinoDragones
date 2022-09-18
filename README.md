@@ -12,7 +12,9 @@ Cuando llegaste a la sima, no encontrabas la entrada pero la luz de la luna ilum
 
 Arriesgate a elegir una de las dos opciones para quedarte con el tesoro. 
 
-Entra al código y descubre que opción te saldrá?
+Arriesgate en la aventura!
+
+Descubre que opción te saldrá?
 
 
 ![dragones](https://user-images.githubusercontent.com/103209971/190930323-a9dbe54f-cc31-4de5-a9b7-450d4f0f0285.jpg)
