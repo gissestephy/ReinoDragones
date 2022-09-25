@@ -2,7 +2,7 @@
 
 Diseño de un juego con opción múltiple realizado en Python
 
-Un día un anciano extraño alto y con un sombrero gris de punta llega a tu casa y te encomienda la misión de buscar un tesoro muy valioso que te dará una gran fortuna. El único problema que este tesoro está en una cueva habitada por dragones, algunos de ellos son amigables y permitirán compartirlo pero otros sin embargo son ambiciosos, crueles y si te ven te devorarán fácilmente. 
+Un día un anciano extraño alto y con un sombrero gris de punta llega a tu casa y te encomienda la misión de buscar un tesoro muy valioso que te dará una gran fortuna. El único problema que este tesoro está en una cueva habitada por dragones, algunos de ellos son amigables y permitirán compartirlo pero otros son ambiciosos, crueles y si te ven te devorarán fácilmente. 
 
 Tu ansioso por emprender una gran aventura aceptas, preparas las cosas más importantes y aquellas que te ayudarán en el viaje y emprendes el viaje seguido de un gran grupo, a medida que pasan los días y diferentes desafios se embarcan cada persona que componía el grupo comenzo a tomar rumbos separados y el grupo se dividio. 
 
